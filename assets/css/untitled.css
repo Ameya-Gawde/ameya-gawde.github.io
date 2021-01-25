@@ -1,0 +1,15 @@
+.img-fluid.intro-img.mb-3.mb-lg-0.rounded {
+  opacity: 0.9;
+}
+
+.section-heading .section-heading-lower {
+  font-size: small;
+  font-style: normal;
+  color: black;
+  font-family: Lora;
+  /*background: linear-gradient(rgba(47,23,15,.65),rgba(47,23,15,.65));*/
+  background-attachment: fixed;
+  background-position: 50%;
+  background-size: cover;
+}
+
